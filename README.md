@@ -1,1 +1,3 @@
-# ls_R-Traverse-directory
+在shell中键入$./ls_R {目录名} 遍历该目录所有文件。
+
+相当于手动实现ls命令
